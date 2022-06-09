@@ -42,3 +42,10 @@ packages:
   - toolbox
   # nvme-cli for managing nvme disks
   - nvme-cli
+  # Packages for github.com/kevydotvinu/ocp-ipi-baremetal-lab
+  - libvirt
+  - qemu-kvm
+  - libvirt-daemon
+  - virt-install
+  - ipmitool
+  - make
